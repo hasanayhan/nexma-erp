@@ -291,15 +291,6 @@ Bu sistem Supabase ile entegre edilebilir / This system can be integrated with S
 
 ## 🚀 **Deployment**
 
-### **Vercel (Önerilen / Recommended)**
-```bash
-# Vercel CLI kurulumu / Vercel CLI installation
-npm i -g vercel
-
-# Deploy
-vercel --prod
-```
-
 ### **Netlify**
 ```bash
 # Build
