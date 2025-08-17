@@ -368,10 +368,9 @@ Detaylar için / For details, see [LICENSE](LICENSE) dosyasına bakın / file.
 
 - **GitHub:** [@hasanayhan](https://github.com/hasanayhan)
 - **Repository:** [nexma-erp](https://github.com/hasanayhan/nexma-erp)
-- **Website:** [https://nexma.com](https://nexma.com)
-- **Email:** info@nexma.com
-- **LinkedIn:** [NEXMA Company](https://linkedin.com/company/nexma)
-- **Twitter:** [@nexma_erp](https://twitter.com/nexma_erp)
+- **Website:** [https://hasanayhan.com.tr](https://hasanayhan.com.tr)
+- **Email:** hasanayhanresmi@gmail.com
+- **LinkedIn:** [HASAN AYHAN]([https://linkedin.com/company/nexma](https://www.linkedin.com/in/hasan-ayhan-9683312a3/))
 
 ---
 
